@@ -1,0 +1,21 @@
+
+
+[theme]
+base="dark"
+
+primaryColor="#B3D943"
+backgroundColor="#010101"
+secondaryBackgroundColor="#101010"
+
+textColor="#FFFFFF"
+font="sans serif"
+
+
+
+[server]
+runOnSave = true
+port = 8502
+
+[client]
+caching = false
+
